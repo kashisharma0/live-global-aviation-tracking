@@ -48,6 +48,8 @@ flight-pipeline/
 ├── run_job.ps1
 ├── run_stream.ps1
 └── .gitignore
+```
+
 Dashboard Metrics
 The dashboard displays:
 - Total aircraft tracked
